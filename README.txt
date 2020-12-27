@@ -10,7 +10,8 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 The URL to the project https://d2yb33q4g06e3i.cloudfront.net/index.html
-![Udacity’s School of Cloud Computing](https://github.com/LarrySul/deploy-static-website-on-aws/blob/master/screenshot/Screenshot%202020-12-28%20at%2000.21.12.png)
+
+<img src="https://github.com/LarrySul/deploy-static-website-on-aws/blob/master/screenshot/Screenshot%202020-12-28%20at%2000.21.12.png" alt="Udacity’s School of Cloud Computing">
 
 
 
